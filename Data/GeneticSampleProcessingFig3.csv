@@ -1,0 +1,5 @@
+Delivery,Processing,Stage,Preservation,Laboratory,Action,Dissection,Collection,Transfer,Evaluate
+Delta Smelt \n FCCL \n Hatchery \n Tisssue \n Collections,Finclip (ETOH),Non-larvae,GVL \n DNA \n Extraction,Archive \n GVL,Extraction Stored (-80C),,,,
+Delta Smelt \n FCCL \n Hatchery \n Tisssue \n Collections,Finclip (ETOH),Non-larvae,GVL \n DNA \n Extraction,Gtseq \nAbernathy,"heterozygosity, \n  inbreeding coefficient (Fis), \n differentiation (Fst),\n effective size ",,,,
+Delta Smelt \n FCCL \n Hatchery \n Tisssue \n Collections,Finclip (ETOH),Non-larvae,GVL \n DNA \n Extraction,SNPs \nGVL,Parentage \n Hybridization \n Family ID \n,,,,
+Delta Smelt \n FCCL \n Hatchery \n Tisssue \n Collections,Finclip (ETOH),Non-larvae,GVL \n DNA \n Extraction,Microsatellite \nGVL \n Refuge Parents only,"Fst for all Generations \n He, ho, Ne, \n Allelic Richness",,,,

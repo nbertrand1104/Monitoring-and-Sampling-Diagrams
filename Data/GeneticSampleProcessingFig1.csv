@@ -1,0 +1,11 @@
+Delivery,Processing,Stage,Preservation,Laboratory,Action,Dissection,Collection,Transfer
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Larvae,ETOH,GVL \n DNA \n Extraction,Extraction Stored (-80C),Archive GVL,,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Larvae,ETOH,GVL \n DNA \n Extraction,Gtseq \nAbernathy,"heterozygosity, \n  inbreeding coefficient (Fis), \n differentiation (Fst),\n effective size ",,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Larvae,ETOH,GVL \n DNA \n Extraction,SNPs GVL,Parentage \n Hybridization \n Family ID \n,,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Larvae,Formalin, UCD Aquatic  \n Health Program \n Dissection,Abernathy \n Extraction\n formalin method \n Gtseq,Extraction Stored (-80C),,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Larvae,Formalin, UCD Aquatic  \n Health Program \n Dissection,Abernathy \n Extraction\n formalin method \n Gtseq,"heterozygosity, \n  inbreeding coefficient (Fis), \n differentiation (Fst),\n effective size ",,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Larvae,Formalin, UCD Aquatic  \n Health Program \n Dissection,Carcass \nStored (-80C), UCD Aquatic  \n Health Program,,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Non-larvae,Liquid \n Nitrogen, UCD Aquatic  \n Health Program \n Dissection,GVL \n Finclip (ETOH) \n Extraction ,CytoB \n Identification,,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,DOP Subsampling,Non-larvae,Liquid \n Nitrogen, UCD Aquatic  \n Health Program \n Dissection,Carcass Stored (-80C), UCD Aquatic  \n Health Program,,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,Sherlock Swab,Any life Stage,Liquid \n Nitrogen,GVL \n DNA \n Extraction,Archive GVL,Extraction Stored (-80C),,
+Delta Smelt \nUSFWS \n CDFW \n Fish Collection Facilities,Sherlock Swab,Any life Stage,ETOH,GVL \n DNA \n Extraction,Species ID Call \n mitocondrial,ID Data to \nUSFWS & CDFW,,
